@@ -4,23 +4,10 @@
 <img align="right" height="200" src="https://i.ibb.co/0BQpx9s/programmer.gif"  />
 
 ###
-👋 Hi, I'm Riaz, a passionate full-stack developer 
-currently embarking on a web development journey through an internship. 
-💻 As a dedicated team player, I thrive in collaborative environments, bringing a unique blend of skills to the table. 
-🚀 My tech toolkit includes a range of web development technologies, and I'm currently exploring the exciting realms of Next.js to enhance my expertise. 
-🌐 Let's code the future together!
-
-
-👋 Hi, I'm Riaz, a full-stack developer.
-💻 Team player thriving in collaboration, with a unique skill set. 
-🚀 Tech toolkit includes diverse web dev technologies.
-🤖Currently exploring Next.js to enhance expertise. 
-🌐 Let's code the future together!
-____________________________________________________________________________
 
 
 # 💫 About Me:
-👋 Hi, I'm Riaz, a full-stack web developer.<br>💻 Team player thriving in collaboration, with a unique skill set. <br>🤖 Passionately exploring new technologies to enhance my expertise. <br>🌐 Let's code the future together!
+👋 Hi, I'm <p class='strong'>Riaz</>, a full-stack web developer.<br>💻 Team player thriving in collaboration, with a unique skill set. <br>🤖 Passionately exploring new technologies to enhance my expertise. <br>🌐 Let's code the future together!
 
 
 ## 🌐 Socials:
