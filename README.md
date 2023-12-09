@@ -7,7 +7,7 @@
 
 
 # 💫 About Me:
-👋 Hi, I'm <span class='strong'>Riaz</span>, a full-stack web developer.<br>💻 Team player thriving in collaboration, with a unique skill set. <br>🤖 Passionately exploring new technologies to enhance my expertise. <br>🌐 Let's code the future together!
+👋 Hi, I'm <strong>Riaz</strong>, a full-stack web developer.<br>💻 Team player thriving in collaboration, with a unique skill set. <br>🤖 Passionately exploring new technologies to enhance my expertise. <br>🌐 Let's code the future together!
 
 
 ## 🌐 Socials:
