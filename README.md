@@ -19,11 +19,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=riaz9191&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=riaz9191&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=riaz9191&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-###
 
-<img src="https://raw.githubusercontent.com/riaz9191/riaz9191/output/snake.svg" alt="Snake animation" />
-
-###
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
