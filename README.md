@@ -1,4 +1,4 @@
-![Display Image](https://i.ibb.co/YW6RJpQ/black-and-pink-neon-futuristic-album-cover-Facebook-Cover-1.png)
+![Display Image]((https://i.ibb.co/r7F87jH/black-and-pink-neon-futuristic-album-cover-New-Linked-In-Banner-1.png))
 
 
 ###
